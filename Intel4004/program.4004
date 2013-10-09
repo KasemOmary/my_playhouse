@@ -1,0 +1,13 @@
+ldm 40
+xch ax
+ldm 20
+xch bx
+ldm 10
+xch cx
+ldm 25
+xch dx
+ldm 55
+add dx
+add ax
+add bx
+sub cx

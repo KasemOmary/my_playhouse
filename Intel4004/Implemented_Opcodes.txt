@@ -1,0 +1,15 @@
+i4004 Emulator - Supported Opcodes , i4004 ASM 
+
+add 
+sub 
+inc  
+iac 
+dac 
+clb 
+clc 
+tcc 
+stc 
+ldm 
+xch 
+ld 
+nop 
